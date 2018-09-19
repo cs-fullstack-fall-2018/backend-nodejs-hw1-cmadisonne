@@ -7,14 +7,17 @@ It is acceptable to use other resources to help you answer these questions, but 
 ### WRITE EACH ANSWER BELOW THE QUESTION
 
 1. What is npm?
+
 NPM is the package handler that is installed in the terminal, which holds different packages, the command line (client side), and data bases (server side). 
 
 
 2. What is ```Package.json```?
+
 Package.json is the file that automatically installs with npm. It has all the information that npm needs in order to identify it's idenitity (more specific info on the project) and depencies.
 
 
 3. What is a Callback Function?
+
 A Callback function is simply a function inside of another function. You pass functions as if they are varibles. You can also return them. 
 
 
